@@ -1,0 +1,9 @@
+1: Go inside ids folder
+2: double click on run
+3: Create topology 
+	1:create node by mouse click
+	2:create edge b/w nodes
+4: go to node folder 
+5: double click on run
+6: Login all the nodes
+7: excute the the project
